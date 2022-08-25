@@ -147,11 +147,11 @@ svg:hover {
 
 .carouselWoman {
   background-image: linear-gradient(
-    to right,
-    rgba(44, 42, 43, 0.3),
-    rgba(44, 42, 43, 0.3)
+    to bottom,
+    #FDEEDC,
+    #A77979
   );
-  background-size: 90% 80%;
+  background-size: 90% 50%;
   background-position: bottom center;
   background-repeat: no-repeat;
 }
