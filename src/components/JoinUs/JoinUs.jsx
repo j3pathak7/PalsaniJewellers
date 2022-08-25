@@ -16,7 +16,7 @@ export const JoinUs = () => {
   return (
     <Container fluid className="px-5 py-3 my-lg-5" id="form">
       <div className="text-center">
-        <h3 className="fw-bold fs-1 py-5">Join J-Shop’s Family</h3>
+        <h3 className="fw-bold fs-1 py-5">Join Palsani Jewellers' Family</h3>
       </div>
       <Form className="py-0 d-flex justify-content-center flex-lg-row flex-column" onSubmit={handleSubmit}>
         <Form.Control
