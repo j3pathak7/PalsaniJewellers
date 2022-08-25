@@ -1,6 +1,6 @@
 import { Col, Container, Image, Row } from "react-bootstrap";
-import gold_ring from "../../assets/images/gold-ring-with-shiny-diamond-stone-it.png";
-import vertical_ring from "../../assets/images/Rectangle 4.png";
+import gold_ring from "../../assets/images/jewelry-transparent-background-4.png";
+import vertical_ring from "../../assets/images/jewelry-transparent-background-18.png";
 import { SocialMedia } from "../SocialMedia/SocialMedia";
 
 export const Main = () => {

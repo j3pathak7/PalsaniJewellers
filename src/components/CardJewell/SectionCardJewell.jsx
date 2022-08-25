@@ -1,4 +1,4 @@
-import gold_bracelet from "../../assets/images/image24.png";
+import gold_bracelet from "../../assets/images/image24.jpeg";
 import gold_ring from "../../assets/images/image25.png";
 import { CardJewell } from "./CardJewell";
 
