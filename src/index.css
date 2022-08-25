@@ -4,6 +4,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap");
 @import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,400;1,100;1,200;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;0,600;1,100;1,200;1,400;1,600&display=swap');
 
 * {
   box-sizing: border-box;
@@ -21,17 +23,17 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Noto Serif JP";
+  font-family: "Montserrat";
   color: #A62349;
 }
 
 p,
 span {
-  font-family: "Gilroy-Medium";
+  font-family: "Poppins";
 }
 
 .logo {
-  font-family: "Playfair Display";
+  font-family: "Montserrat";
   font-size: 20px;
 }
 

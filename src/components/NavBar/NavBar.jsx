@@ -16,11 +16,11 @@ export const NavBar = () => {
             <Nav.Link className="center-nav" href="#collection">
               Categories
             </Nav.Link>
-            <Nav.Link className="center-nav" href="#about">
-              About
-            </Nav.Link>
             <Nav.Link className="center-nav" href="#jewell">
               Shop
+            </Nav.Link>
+            <Nav.Link className="center-nav" href="#about">
+              Testimonials
             </Nav.Link>
             <Nav.Link className="center-nav" href="#form">
               Contact

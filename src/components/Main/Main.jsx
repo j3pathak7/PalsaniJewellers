@@ -12,32 +12,41 @@ export const Main = () => {
           <Image src={gold_ring} fluid className="ring" />
         </Col>
         <Col sm={4} className="pt-lg-5 mt-lg-4 ps-lg-4 ms-lg-3">
-          <h3 style={{ fontSize: "34px" }}>Our Story</h3>
+          <h3 style={{ fontSize: "34px" }}>About Us</h3>
           <p>
-            modern jewelry is made of gold, silver, or platinum, often with
-            precious or semiprecious stones, it evolved from shells, animal
-            teeth, and other items used as body decoration in prehistoric times.
+            Palsani Jewellers is a 50-year-old company dealing in gold, diamond
+            and jadau jewellery. We are based out of Kolkata and are involved in
+            the retail business.
           </p>
         </Col>
       </Row>
       <div className="explore">
-        <a target="_blank" href="https://www.partridgejewellers.com/">
+        <a
+          target="_blank"
+          href="https://www.instagram.com/palsanijewellersindia/"
+        >
           Explore
         </a>
       </div>
       <Row>
         <Col sm={6}>
           <h1 className="ms-lg-4 text-center text-lg-start mt-3 mt-lg-0">
-            Jewelery tells a great story
+            Jewelry - the perfect spice
           </h1>
           <Row className="ms-lg-4 gap-3 mt-5">
             <Col sm={5}>
-              <h3>Gold</h3>
-              <p>Her provision acuteness had two why intention.</p>
+              <h3>Diamond</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero,
+                numquam?
+              </p>
             </Col>
             <Col sm={5}>
-              <h3>SILVER</h3>
-              <p>Her provision acuteness had two why intention.</p>
+              <h3>Gold</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Voluptatibus, alias.
+              </p>
             </Col>
           </Row>
         </Col>
